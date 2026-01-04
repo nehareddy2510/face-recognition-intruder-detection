@@ -21,4 +21,4 @@ This project implements a real-time face recognition system that identifies auth
 3. Compare live embeddings with stored encodings using Euclidean distance  
 4. Label unknown faces as **Intruder** when distance exceeds threshold  
 
-## Project Structure
+
